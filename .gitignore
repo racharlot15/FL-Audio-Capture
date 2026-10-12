@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Keep local recordings, measurements, and mix reports out of the source repository.
+*.wav
+*.json
+/.deadline-action.log
+/.stop-condition-met
+/.push-succeeded
+/.remote-visibility-confirmed
+/push-and-lock.ps1
